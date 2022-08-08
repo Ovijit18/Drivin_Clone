@@ -1,0 +1,344 @@
+/* Nav top var */
+
+#nav-top-bar {
+  background-color: rgb(12, 43, 75);
+  color: white;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding: 5px;
+  font-size: 14px;
+}
+
+#nav-top-bar i {
+  color: rgb(243, 189, 0);
+}
+
+#nav-top-bar i,
+p,
+a {
+  margin-top: auto;
+  margin-bottom: auto;
+  font-weight: 250;
+}
+
+#nav-top-bar-link a {
+  font-size: 16px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+#nav-a {
+  border-right: 0.5px solid whitesmoke;
+}
+
+/* Navbar */
+#navbar {
+  background-color: white;
+  text-decoration: None;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+#navbar a {
+  color: black;
+}
+
+#get_started {
+  background-color: rgb(243, 189, 0);
+  color: white;
+}
+
+/* Carouesl */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgb(243, 189, 0);
+  padding: 20px;
+}
+
+#carousel-btn-learn {
+  background-color: rgb(243, 189, 0);
+}
+
+#carousel-heading {
+  font-size: 90px;
+  color: white;
+  padding-bottom: 50px;
+}
+
+#carousel-btn-courses,
+#carousel-btn-learn {
+  text-decoration: none;
+  margin-bottom: 180px;
+  padding: 15px 50px;
+}
+
+#carousel-btn-courses {
+  background-color: white;
+  color: black;
+}
+
+#carousel-btn-learn {
+  color: white;
+  margin-right: 5px;
+}
+
+/* About */
+
+#about {
+  padding: 150px 0px;
+}
+
+#about-heading1 {
+  color: rgb(243, 189, 0);
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+#about-heading2 h4 {
+  font-size: 35px;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+
+#about-heading2 p {
+  padding-bottom: 10px;
+  font-weight: 400;
+}
+
+#about-button #about-read-more {
+  background-color: rgb(243, 189, 0);
+  padding: 10px 40px;
+  margin: 15px 0px;
+}
+
+#about-button #about-telephone {
+  background-color: white;
+  border: 2px solid rgb(243, 189, 0);
+  padding: 10px 40px;
+  margin: 15px 0px;
+  margin-left: 30px;
+}
+
+/* Trainding courses */
+#tranding {
+  background: linear-gradient(
+      rgba(218, 218, 218, 0.719),
+      rgba(218, 218, 218, 0.719)
+    ),
+    url("../images/carousel-1.jpg");
+}
+
+#tranding-headline h6 {
+  color: rgb(243, 189, 0);
+  font-weight: 600;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#tranding-headline h4 {
+  font-weight: 650;
+  font-size: 40px;
+  padding-bottom: 70px;
+}
+
+.card-body span {
+  background-color: rgb(243, 189, 0);
+  padding: 10px 25px;
+}
+
+.card-body i {
+  color: rgb(243, 189, 0);
+  padding-right: 10px;
+}
+
+/* Form */
+.form {
+  padding: 3%;
+  margin-top: 60px;
+  background-color: rgb(243, 189, 0);
+  width: 600px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#form-field input,
+#form-field textarea {
+  margin-bottom: 10px;
+}
+
+.form button {
+  color: white;
+  background-color: rgb(12, 43, 75);
+  margin-top: 10px;
+  padding: 5px 18px;
+}
+
+.form h4 {
+  font-size: 40px;
+  font-weight: 500;
+  padding-bottom: 35px;
+}
+
+/* Why choose us */
+#why-choose-us {
+  padding: 150px 0px;
+}
+
+#why-choose-us h6 {
+  color: rgb(243, 189, 0);
+  text-transform: uppercase;
+}
+
+#why-choose-us h4 {
+  font-size: 35px;
+  font-weight: 700;
+  padding-bottom: 20px;
+}
+
+#why-choose-us-point {
+  padding: 5%;
+}
+
+#why-choose-us-point i {
+  background-color: rgb(243, 189, 0);
+  color: white;
+  padding: 6px 10px;
+  margin-right: 2px;
+}
+
+#why-choose-us-point h5 {
+  padding-top: 5px;
+  padding-left: 8px;
+}
+
+#why-choose-us-point p {
+  padding-top: 5px;
+}
+
+/* Team */
+.team {
+  padding: 150px 0px;
+}
+
+.team-heading h6 {
+  color: rgb(243, 189, 0);
+  padding-bottom: 15px;
+  font-weight: 500;
+}
+
+.team-heading h4 {
+  text-transform: capitalize;
+  padding-bottom: 60px;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+#team {
+  margin: 0px 15px;
+}
+
+#team-card-full img,
+h5,
+p {
+  padding: 5px;
+}
+
+/* Footer first */
+
+#footer-first {
+  background-color: rgb(12, 43, 75);
+  color: white;
+  padding: 80px 0px;
+}
+
+#footer-first h4 {
+  font-weight: 600;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+#footer-first .footer {
+  --bs-gutter-x: 0;
+}
+
+#get-in-touch-logo i {
+  font-size: 30px;
+  padding-right: 10px;
+}
+
+#get-in-touch-logo p {
+  color: rgb(243, 189, 0);
+  font-size: 30px;
+  font-weight: 700;
+}
+
+#get-in-touch-desc {
+  padding-bottom: 10px;
+}
+
+#get-in-touch-desc i {
+  padding-right: 15px;
+}
+
+#quick-link a {
+  color: white;
+  text-decoration: none;
+  font-weight: 350;
+}
+
+#quick-link #quick-link-part {
+  padding-bottom: 10px;
+}
+
+#newsletter-input {
+  background-color: white;
+  border: 0;
+  padding: 12px 5px;
+}
+
+#newsletter-signup button {
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+  background-color: rgb(243, 189, 0);
+}
+
+#newsletter-follow-us-heading {
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 40px;
+  padding-top: 20px;
+}
+
+#follow-us-link {
+  padding-top: 10px;
+}
+
+#follow-us-link a {
+  color: white;
+  border: 1px solid white;
+  padding: 7px 9px;
+  margin-right: 4px;
+}
+
+#footer {
+  background-color: rgb(15, 35, 54);
+  color: white;
+}
+
+#footer span {
+  color: rgb(243, 189, 0);
+}
+
+#footer-left {
+  font-weight: 600;
+  padding: 30px 0;
+  padding-left: 22px;
+}
+
+#footer-right p {
+  margin: auto 0px;
+  padding-right: 100px;
+  text-align: right;
+  font-weight: 600;
+}
